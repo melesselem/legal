@@ -1,0 +1,23 @@
+title: melesselem — Legal
+description: Privacy policies for melesselem apps.
+url: https://melesselem.github.io
+baseurl: /legal
+
+permalink: pretty
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - vendor
