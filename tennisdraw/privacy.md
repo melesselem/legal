@@ -1,11 +1,11 @@
 ---
-title: Privacy Policy — TennisDraw (Doubles Draw)
+title: Privacy Policy — TennisDraw (Doubles Pairings)
 layout: page
 ---
 
 # Privacy Policy — TennisDraw
 
-*Last updated: 2026-05-23*
+*Last updated: 2026-06-08*
 
 [English](#english) | [日本語](#日本語)
 
@@ -13,7 +13,7 @@ layout: page
 
 ## English
 
-This Privacy Policy describes how the **TennisDraw (Doubles Draw)**
+This Privacy Policy describes how the **TennisDraw (Doubles Pairings)**
 mobile application ("the App"), provided by **melesselem**, handles
 your information.
 
