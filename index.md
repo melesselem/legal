@@ -10,3 +10,4 @@ Privacy policies for **melesselem** apps.
 ## Apps
 
 - [**TennisDraw** — Privacy Policy](./tennisdraw/privacy/)
+- [**TennisDraw** — Support](./tennisdraw/support/)
