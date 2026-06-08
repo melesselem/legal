@@ -1,5 +1,5 @@
 ---
-title: Support — TennisDraw (Doubles Draw)
+title: Support — TennisDraw (Doubles Pairings)
 layout: page
 ---
 
@@ -12,7 +12,7 @@ layout: page
 ## English
 
 For questions, feedback, or feature requests about **TennisDraw
-(Doubles Draw)**, please contact:
+(Doubles Pairings)**, please contact:
 
 - **Email**: melesselem@gmail.com
 
