@@ -5,8 +5,9 @@ layout: home
 
 # Legal
 
-Privacy policies for **melesselem** apps.
+Privacy policies and support pages for **melesselem** apps.
 
 ## Apps
 
 - [**TennisDraw** — Privacy Policy](./tennisdraw/privacy/)
+- [**TennisDraw** — Support](./tennisdraw/support/)
