@@ -11,7 +11,7 @@ layout: page
 
 ## English
 
-TennisDraw creates fair, random doubles pairings based on the number of players and courts — for tennis and other doubles sports. Free, no ads, no data collection, no internet needed.
+TennisDraw creates fair, random doubles pairings based on the number of players and courts — for tennis and other doubles sports. Free, no ads, no data collection, no internet needed. Made to support everyone who simply loves playing.
 
 For questions, feedback, or feature requests about **TennisDraw
 (Doubles Pairings)**, please contact:
@@ -24,7 +24,7 @@ See also the [Privacy Policy](../privacy/).
 
 ## 日本語
 
-TennisDraw は、人数とコート数に応じてテニスなどダブルスの組み合わせを公平・ランダムに作成するアプリです。無料・広告なし・データ収集なし・ネット接続不要。
+TennisDraw は、人数とコート数に応じてテニスなどダブルスの組み合わせを公平・ランダムに作成するアプリです。無料・広告なし・データ収集なし・ネット接続不要。純粋にスポーツを楽しむ人を応援したくて作りました。
 
 **TennisDraw（ダブルス組み合わせ）** に関するご質問・ご意見・ご要望は、
 こちらへご連絡ください:
