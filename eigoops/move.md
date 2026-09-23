@@ -43,6 +43,6 @@ You scanned the code shown in EigOops on your old device. Tap **Open in EigOops*
     }
     // 履歴は # の後ろにあり、ブラウザはサーバーへ送らない。同じ中身を
     // 独自スキームでアプリに渡す。
-    button.href = 'eigoops://app/move/eigoops' + hash;
+    button.href = 'eigoops://app/eigoops/move' + hash;
   })();
 </script>
