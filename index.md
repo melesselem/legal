@@ -11,3 +11,5 @@ Privacy policies and support pages for **melesselem** apps.
 
 - [**TennisDraw** — Privacy Policy](./tennisdraw/privacy/)
 - [**TennisDraw** — Support](./tennisdraw/support/)
+- [**EigOops** — Privacy Policy](./eigoops/privacy/)
+- [**EigOops** — Support](./eigoops/support/)
