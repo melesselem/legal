@@ -5,7 +5,8 @@ layout: page
 
 # Move to a new device — EigOops
 
-[English](#english) | [日本語](#日本語)
+<!-- 言語リンク（#english 等）は置かない。URL の # の後ろは引き継ぎの履歴で、
+     言語リンクで上書きされると再読み込み後に引き継げなくなる。 -->
 
 <p>
   <a id="open-app" class="open-app" href="#" style="display:inline-block;padding:0.9em 1.6em;border-radius:999px;background:#017999;color:#fff;font-weight:600;text-decoration:none">Open in EigOops</a>
